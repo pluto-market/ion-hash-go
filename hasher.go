@@ -17,7 +17,7 @@ package ionhash
 
 import (
 	"github.com/amazon-ion/ion-go/ion"
-	"github.com/amzn/ion-hash-go/internal"
+	"github.com/pluto-market/ion-hash-go/internal"
 )
 
 type hasher struct {
